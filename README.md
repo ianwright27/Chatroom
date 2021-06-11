@@ -3,4 +3,4 @@ A simple chatroom application built in PHP.
 
 #### Bootstrap
 
-![]('src/assets/img/Screenshot.PNG')
+![]('src/assets/sample/Screenshot.PNG')
