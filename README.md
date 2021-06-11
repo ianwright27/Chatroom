@@ -1,6 +1,4 @@
 # Chatroom
-A simple chatroom application built in PHP.
-
-#### Bootstrap
+A simple PHP powered chatroom application.
 
 ![](src/assets/sample/Screenshot.PNG)
